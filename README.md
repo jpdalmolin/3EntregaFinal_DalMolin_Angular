@@ -1,4 +1,14 @@
-# EntregaFinal2
+TO RUN - 2 RUNS GIT BASH 
+
+RUN:json-server db.json --watch 
+GIT BASH RUN:ng serve -o
+
+to run tests: ng test
+
+login User:asd@gmail.com PW:123456
+
+
+# EntregaFinal3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
