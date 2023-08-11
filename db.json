@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "asdasde",
+      "name": "asdasdeee",
       "surname": "asdasd",
       "email": "asd@gmail.com",
       "password": "123456",
@@ -9,12 +9,36 @@
       "token": "bG1Ptx4ZztwJwAoyjxQy"
     },
     {
-      "name": "teste",
+      "name": "testeee",
       "surname": "test",
       "email": "test@mail.com",
       "password": "123456",
+      "id": 2,
+      "token": "bG1Ptx4ZztwJwBoyjxQy"
+    }
+  ],
+  "class": [
+    {
+      "name": "Marcos",
+      "description": "asd",
+      "id": 1
+    },
+    {
+      "name": "cuetin",
+      "description": "nuevo",
       "id": 2
     }
   ],
-  "products": []
+  "courses": [
+    {
+      "id": 2,
+      "name": "B",
+      "description": "Curso B"
+    },
+    {
+      "name": "CE",
+      "description": "curso CE",
+      "id": 3
+    }
+  ]
 }
